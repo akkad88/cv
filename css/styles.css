@@ -1,0 +1,28 @@
+
+body{
+ background-color: #effcef;
+}
+hr {
+
+  border-style :none ;
+  border-top-style :dotted;
+  border-color: grey;
+  border-width :5px;
+
+  width :5%;
+}
+h1{
+  color : blue;
+  text-align: center;
+}
+h2{
+  color : #27496d;
+}
+h3{
+  color : #142850;
+}
+img{
+  border-radius:100%;
+  max-width: 100%;
+  height: auto;
+}
